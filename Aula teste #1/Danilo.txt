@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-alguma coisa!!!!!!
-
-
-alguma coisa 2...
-=======
-uma coisa!!!!!!
-outra coisa !!!!!!
->>>>>>> 3082646b02f17ff461ed18fe05e146aeec7d49f6
